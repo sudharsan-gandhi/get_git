@@ -1,5 +1,5 @@
 {
-  "name": "get_git",
+  "name": "get_git_http",
   "version": "0.0.0",
   "description": "",
   "main": "build/src/index.js",
