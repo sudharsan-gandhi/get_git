@@ -33,6 +33,7 @@ program
       {
         type: 'password',
         name: 'password',
+        mask: true,
         message: 'Enter Git password:',
       },
       {
