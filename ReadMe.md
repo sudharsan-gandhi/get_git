@@ -6,7 +6,7 @@ Setting up SSH is also a redundant and hard job to do.
 #### Prerequisities and knowledge:
 
 * create access token from github. go to developer settings -> access token (classic) -> provide necessary access. Copy the password and have it somewhere since you can view it again.
-![Generate token](doc-assets/generate_keys.png)
+![Generate token](https://github.com/sudharsan-gandhi/get_git/blob/main/doc-assets/generate_keys.png)
 * username
 * https url to repo
 * git installed in system
