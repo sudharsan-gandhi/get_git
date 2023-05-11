@@ -15,7 +15,13 @@ Setting up SSH is also a redundant and hard job to do.
 #### installation
 
 ```
-npm i -g get_git
+npm i -g get_git_http
+```
+
+#### git url
+
+```
+https://github.com/sudharsan-gandhi/get_git
 ```
 
 #### running the application
